@@ -1,5 +1,7 @@
 {
     "name": "johnnypea/wordpress-loader",
     "type": "wordpress-loader",
-    "require": {}
+    "require": {
+      "johnnypea/wordpress-loader-type": "dev-master",      
+    }
 }

@@ -1,5 +1,5 @@
 {
     "name": "johnnypea/wordpress-loader",
-    "type": "wordpress-muplugin",
+    "type": "wordpress-loader",
     "require": {}
 }

@@ -1,7 +1,13 @@
 {
     "name": "johnnypea/wordpress-loader",
     "type": "wordpress-loader",
+    "repositories": [
+    {
+        "type": "vcs",
+        "url": "https://github.com/johnnypea/wordpress-loader-type"
+    }
+    ],
     "require": {
-      "johnnypea/wordpress-loader-type": "dev-master"      
+      "johnnypea/wordpress-loader-type": "dev-master"
     }
 }

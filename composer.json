@@ -1,4 +1,5 @@
 {
     "name": "johnnypea/wordpress-loader",
+    "type": "wordpress-loader",
     "require": {}
 }

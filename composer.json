@@ -1,5 +1,8 @@
 {
     "name": "johnnypea/wordpress-loader",
     "type": "wordpress-loader",
-    "require": {}
+    "require": {
+      "composer/installers": "~1.0.12",
+      "johnnypea/wordpress-loader-type": "dev-master"
+    }
 }
